@@ -9,3 +9,4 @@ var f = b / 2;
 console.log("a + b = " + c);
 console.log("b - a  = " + d);
 console.log("a * b  = " + e);
+console.log("b / a  = " + f);
